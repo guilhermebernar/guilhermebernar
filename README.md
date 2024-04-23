@@ -7,5 +7,3 @@
 
 I'm interested in being a Web and Mobile, Full-Stack developer in web 3.0. I'm currently learning NODE, REACT, JAVASCRIPT(and frameworks), Python at KENZIE ACADEMY BRAZIL.
 In addition to Kenzie, I study entrepreneurship and management at Universidade Federal Fluminense.
-
-[![alt text](https://www.codewars.com/users/guilhermebernar/badges/micro)](https://www.codewars.com/users/guilhermebernar/)
